@@ -1,0 +1,17 @@
+project:
+  type: manuscript
+  execute-dir: project
+
+manuscript:
+  article: index.qmd
+
+format:
+  html: default
+  docx: default
+  apaish-typst: 
+    documentmode: man
+execute:
+  freeze: auto 
+
+
+

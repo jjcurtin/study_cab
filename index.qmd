@@ -1,0 +1,148 @@
+---
+title: Catchy First Part Here - A Case Study of Community Advisory Board Work in the Context of Digital Interventions
+author:
+  - name: Claire Emilia Punturieri 
+    corresponding: true
+    email: punturieri@wisc.edu
+    affiliations:
+      - Department of Psychology, University of Wisconsin-Madison
+  - name: John J. Curtin 
+    corresponding: false
+    email: jjcurtin@wisc.edu
+    affiliations:
+      - Department of Psychology, University of Wisconsin-Madison 
+keywords:
+  - Substance use disorders
+  - Precision mental health 
+  - Community engagement
+  - Community Advisory Boards
+abstract: |
+  Insert
+plain-language-summary: |
+  Insert
+date: last-modified
+citeproc: true
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+#citation:
+  #container-title: To be filled in. 
+number-sections: false 
+editor_options: 
+  chunk_output_type: console
+---
+
+## Background
+
+*Topic: Brief overview of community engaged research (what is it, how can it be helpful)*
+ - Community engagement, broadly defined as working collaboratively with groups of affiliated individuals to address group-relevant issues [CDC cite], has gained slow but steady momentum in clinical science research in the form of community engaged research (CEnR).
+ - CEnR aims to bring in community members to inform various aspects of the research process.
+ - For researchers not well-acquainted with CEnR, Community Based Participatory Research (CBPR), in which research projects are community-led and community members are co-investigators, may be the predominant method which comes to mind.
+ - Importantly, CEnR exists on a spectrum which entails varying levels of involvement and collaboration from both researchers and community members. [@keyContinuumCommunityEngagement2019]
+ 
+*Topic: Barriers to CEnR among scientists*
+ - It can be daunting to researchers who lack training in CEnR to think about navigating building trusting relationships with community partners, co-developing interventions (particularly when a program of research has already been substantively developed), and disseminating work in the community.
+ - However, this is crucial for researchers who work in applied domains of research, where the ultimate goal is to develop products which are translated into the real-world (as do the authors of this paper).
+ - In this paper, we discuss CEnR with respect to the development of digital therapeutics, where engagement with stakeholders (i.e., community members who may recommend the digital therapeutic to a family member, friend, or who may use it themselves) is a key aspect of the design process.
+ - In the digital mental health space, many researchers tacitly assume that digital interventions are more equitable.
+ - In some ways, this may be true: interventions can be delivered remotely and in some cases, just-in-time.
+ - However, there is a need to also engage with people to make sure what you are designing serves them in the way in which you as a researcher are anticipating.
+
+*Topic: Fixing the barrier*
+ - One way that this can be done is by engaging with established Community Advisory Boards (CABs).
+ - CABs are a method of formalizing academic-community partnerships in a way that enables community members to be consistently connected with the research process. [@newmanCommunityAdvisoryBoards2011]
+ - Many universities have intitiatives to maintain CABs; some are fee-for-service and engage with all researchers, others are designed for specific groups
+ - Engaging with CABs can be a sustainable and realistic way for scientists to begin to explore community engagement work in the context of their research.
+ - Following Key and colleagues (2019) model, engagement with CABs falls under "community consultation," where the "researcher consults with community and includes community in the research."
+ 
+*Topic: Overall purpose*
+ - We hope to demonstrate by example that researchers without technical expertise in CEnR can benefit greatly from these collaborative approaches, particularly in the digital therapeutic space, and that the barrier to entry is not as high as it may seem.
+
+## Our Experiences With a Community Advisory Board (CAB) System
+
+We begin with a discussion of our experience with two established CABs at the University of Wisconsin-Madison, including a brief description of our motivations to incorporate community engagement at this stage in our research.
+
+### State of our Research and Desire to Incorporate Community Feedback
+
+*Topic: background of our lab*
+ - Previous work from our lab has focused on creating machine learning algorithms to predict lapse back to drinking in the next hour, day, and week in individuals with Alcohol Use Disorder (AUD).
+ - We achieve a high level of performance across these time windows [EMA cite] and in lagged models which forecast out these predictions up to two weeks [lag cite]
+ - To date, the focus of our research has been on algorithm development
+
+*Topic: optimize grant*
+ - Recently, we received funding to begin studying how individuals in early recovery would like to receive lapse risk feedback from our algorithm [protocol paper]
+ - Participants will be on study for a period of three months and will receive daily automated messages which include lapse risk information derived from our algorithm
+ - Messages will be presented in different tones and styles
+
+*Topic: why incorporate community feedback at this stage*
+ - We are motivated to incorporate community feedback for several reasons.
+ - First, we are at the stage of development where we are moving towards implementing these algorithms in the real world
+ - We want to understand if this is a system people would find useful/sustainable
+ - Second, we have observed discrepancies in model performance across marginalized groups
+ - We want to correct these discrepancies by engaging diverse individuals
+
+### Description of CARDS
+
+[@kaiserCaseStudyEngaging2017]
+ - We met with two CABs engaged in an academic partnership with the University of Wisconsin-Madison School of Nursing, known as the Community Advisors on Research Design and Strategies (CARDS).
+ - CARDS groups have met monthly with researchers in the broader UW-Madison community since 2010
+ - Provide feedback across a spectrum of information, from recruitment materials (e.g., flyers or other posted advertisements) to broader research design questions (e.g., XX)
+ - A central tennet of CARDS is to bring traditionally excluded community voices into the research process; as such, members of CARDS groups are not community leaders, but instead consist of individuals who have been traditionally underrepresented in healthcare research
+
+### Composition of CABs
+
+- We met with both CABs within CARDS.
+- For the first group: there were 10 members present; 7 identify as female, 3 identify as male; 8 identify as Black/African American, 1 identifies as white, 1 identifies as Mexican/Latina; 2 identify as Hispanic; The age range is 24-76 years old; 3 members identify as low-income; 0 members identify as disabled
+- For the second group: There were 9 members present; 8 identify as female, 1 identifies as male; 7 identify as Black/African American, 1 identifies as white, 1 identifies as other; 1 identifies as Hispanic; The age range is 32-75 years old; 8 members identify as low-income; 5 members identify as disabled
+
+### Meeting preparation and facilitation
+
+*Topic: What we hoped to gain perspective on*
+ - We first began by conducting an iterative series of meetings within our lab to identify priorities we hoped to discuss with CARDS members.
+ - We identified the following topics as being most pressing in the context of our upcoming grant: familiarity with automated systems (e.g., previous use of a health apps on mobile devices to inform behavior), motivations for system use (e.g., what aspects of previous health apps sustained your engagement), deterrents for system use (e.g., what are barriers that might interfere with your ability to use this system), privacy/trust concerns (e.g., what information would you want to know about how we collect and what we do with your data), participant recruitment (e.g., what would make you feel comfortable recommending participation in a study like this to a family member or friend), and dissemination (e.g., how could we get tools like this into your hands in the future).
+
+*Topic: preparation process*
+ - Wrote plain-language abstract, sent in list of topics we wanted to discuss
+ - Met with CARDS facilitators to discuss what we hoped to get out of meeting
+ - Received drafts of meeting agendas and provided feedback
+ - Majority was completely asynchronously
+
+*Topic: meeting itself*
+ - CARDS facilitators guided the meetings
+ - Research team was able to participate, ask follow up questions, but mostly there to learn
+ - 90 minutes
+
+### Deliverables
+
+ - Following both meetings, we received formal reports prepared by CARDS staff which outlined key findings from each meeting (in supplement?) and recordings of both meetings (maybe I can follow up on this)
+ - Debrief session several weeks later about what went well/what didn't go well
+ 
+### What We Learned
+
+Next, we discuss three main themes which came to light through our CARDS meetings.
+
+*Topic: perceptions of automated systems*
+ - Participants had a wide range of views on AI
+ - Challenge of our project leveraging automated messages (chatgpt 4o) with our in-house algorithm which generates personalized risk predictions based on user data
+ 
+*Topic: digital therapeutic alliance*
+ - Participants expressed concern around receiving "negative" (i.e., contrary to what they believe) feedback
+ - Multiple options: feedback is correct and aligns with expectations, feedback is incorrect and aligns with expectations, feedback is correct but does not align with expectations, and feedback is incorrect and does not align with expectations
+
+*Topic: recruitment materials*
+ - Participants wanted to learn about members of the research team
+ - Photos, biographies, descriptions about personal connection to the work
+
+## Other pathways to engaging with stakeholders
+
+ - Conduct exit interviews with participants
+
+## Final Remarks
+
+This paper outlines the value of engaging with university-based CABs, particularly in the context of clinical science researchers in the digital therapeutics space.
+
+ - Researchers interested in engaging with a CAB at their institution are invited to consult the Clinical and Translational Science Awards (CTSA) Program [directory](https://ccos-cc.ctsa.io/resources/hub-directory)
+ - Institutions which have a CTSA hub often have community engagement teams which manage CABS
+
+## Acknowledgments
+
+The authors thank Kim Neuschel, Kat Phelps, and Marianna Garcia for their efforts organizing CARDS meetings. The authors would also like to thank the CARDS community members who shared their perspectives on our digital therapeutic openly, and in doing so have helped XYZ. This research was funded by --insert--.
