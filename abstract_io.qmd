@@ -1,5 +1,6 @@
 ---
-title: Tools for Engaging Community Members in Digital Intervention Development: Community Advisory Board Feedback on a Recovery Monitoring and Support System for Alcohol Use Disorder
+title: Community Advisory Board Feedback on a Monitoring and Support System for Alcohol Use Disorder: A Model for Equitable Intervention Development.
+
 author:
   - name: Claire Emilia Punturieri 
     corresponding: true
