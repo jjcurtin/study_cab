@@ -1,0 +1,40 @@
+---
+title: Tools for Engaging Community Members in Digital Intervention Development: Community Advisory Board Feedback on a Recovery Monitoring and Support System for Alcohol Use Disorder
+author:
+  - name: Claire Emilia Punturieri 
+    corresponding: true
+    email: punturieri@wisc.edu
+    affiliations:
+      - Department of Psychology, University of Wisconsin-Madison
+  - name: John J. Curtin 
+    corresponding: false
+    email: jjcurtin@wisc.edu
+    affiliations:
+      - Department of Psychology, University of Wisconsin-Madison 
+keywords:
+  - Substance use disorders
+  - Precision mental health 
+  - Community engagement
+  - Community Advisory Boards
+abstract: |
+  Insert
+plain-language-summary: |
+  Insert
+date: last-modified
+citeproc: true
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+#citation:
+  #container-title: To be filled in. 
+number-sections: false 
+editor_options: 
+  chunk_output_type: console
+---
+
+> 250-300 word maximum
+
+> We welcome posters on any topic clearly related to intervention optimization (methods, applications, tools, case studies). Submissions must be based on unpublished work. Research that is in press may also be considered, but results that are already published are not eligible. Work already submitted to another conference is welcome.
+
+Community engaged research (CEnR) has gained steady momentum in clinical science intervention development. Navigating forging trusting relationships with community partners, co-developing interventions, and disseminating work in the community can be daunting to researchers who lack CEnR training. Yet, these collaborations are crucial for researchers in the digital mental health space who seek to develop translatable, real-world products. Moreover, many researchers tacitly assume digital interventions resolve healthcare equity issues because of their portable and lower cost nature. However, issues of technological literacy and trust in algorithms present additional barriers exclusive to the digital interventions space. Established, university-based Community Advisory Boards (CABs) are a useful tool for researchers seeking to refine translatable, equitable interventions. Nineteen individuals across two CABs engaged in an academic partnership with the University of Wisconsin-Madison School of Nursing, the Community Advisors on Research Design and Strategies (CARDS), provided feedback on a recovery monitoring and support system (RMSS) for alcohol use disorder (AUD). Our RMSS is designed to provide feedback on relative relapse risk to individuals in early recovery for AUD via personalized messages. Relapse risk levels are generated based on participant ecological momentary assessment and geolocation data. The CARDS team met with researchers to develop a roadmap for discussions and provided final reports following each meeting. Three topics were discussed: motivations and deterrents for RMSS use, confidentiality and trust in automated systems, and recruitment and dissemination of participants and digital interventions. Key themes identified were perceptions of automated systems, accuracy of system feedback, and connection with the research team. CARDS member feedback will be incorporated into our RMSS. Researchers motivated to incorporate community engagement into their work can consult the Clinical and Translational Science Awards (CTSA) program directory.
+
+
